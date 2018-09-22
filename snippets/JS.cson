@@ -1,0 +1,11 @@
+'.source.js':
+  # Basic try-catch
+  'Basic Try-Catch':
+    'prefix': 'tc'
+    'body': """
+      try {
+        ${1}
+      } catch (err) {
+        console.error(error)
+      }
+    """

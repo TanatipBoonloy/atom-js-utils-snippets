@@ -1,0 +1,16 @@
+{
+  "name": "atom-js-utils-snippets",
+  "version": "0.1.0",
+  "description": "JS utilities snippets for atom",
+  "keywords": [
+    "JS",
+    "ES6",
+    "babel",
+    "snippets"
+  ],
+  "repository": "https://github.com/TanatipBoonloy/atom-js-utils-snippets",
+  "dependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
